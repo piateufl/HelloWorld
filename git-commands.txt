@@ -1,2 +1,4 @@
 git clone <URL>
 git status
+git add <Name>
+git commit -m <"Nachricht">
